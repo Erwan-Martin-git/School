@@ -1,0 +1,29 @@
+Exercice 4
+
+Consultez les notes et expliquez quels sont les différents modes utilisateurs d'IOS et comment passet-on d'un mode à une autre ?
+
+Expliquez la différence entre running-config et startup config ?
+Par quelle commande puis je sauvegarder la running-config de manière définitive ?
+
+Quelles sont les commandes à rentrer respectivement sur le router0 et le router1 pour configurer la connexion hdlc sachant que la clock est située coté router0 ?.
+
+
+Exercice 5
+
+13) Questions
+
+IP Configuration pour le PC0 branché à NomPrenom0 ?
+
+Configuration de l'interface Ethernet0/0/0 du routeur NomPrenom0 ?
+
+Quelles sont les routes à rajouter à NomPrenom0 et NomPrenom1 pour que le ping entre PC0 et PC1 soit possible ?
+
+
+Exercice 6
+
+
+
+7) Questions
+
+ Quelle est la commande pour sauvegarder vers un serveur FTP ?
+ Quele est la commande pour récupérer un fichier d'un serveur FTP ?

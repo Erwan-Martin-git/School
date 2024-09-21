@@ -1,0 +1,104 @@
+Exercice1A
+
+11) ) Depuis pc0 faire ping de pc7 et constater l’échec. Pourquoi ?
+
+Il n'a pas la même plage
+
+
+13) Depuis pc0 faire ping de pc7 et constater la réussite. Pourquoi ?
+
+Il a la même plage
+
+
+
+Questions
+Les pc0 pc1 pc2 ont en commun quels paramètres ?.
+X.X.X.Y
+paramètres X
+Pour tester si un pc est accessible on utilise quelle commande ?
+ping
+Pour connecter un pc à un hub , on utilise quel type de câble ?
+Cable rj45 ( droit ) 
+
+
+Exercice1B
+
+
+Questions
+Pour tester si un pc est accessible on utilise quelle commande ?
+ping
+Comment afficher la valeur du paramêtre gateway d’un pc ?
+ipconfig
+Quel est la valeur du paramêtre gateway pour les pcs 0 à 3 ?
+200.12.1.254
+Quel est la valeur du paramêtre gateway pour les pcs 4 à 7 ?
+200.12.2.254
+
+
+
+Exercice2
+
+
+Remplir le tableau suivant :
+
+192.168.123.10 good
+192.168.123.11 good
+192.168.123.12 good
+192.168.123.13 good
+
+
+4) Questions
+Quels sont les pcs qui reçoivent le message ?
+Tous
+Quels sont les pcs qui traitent réellement le message ?
+Seulement celui concerné
+
+
+
+6)
+Combien de couches du modèle sont mises en œuvre dans cet échange. Citez les ?
+3, physique, liason de données, réseau
+Le niveau 3 utilise quelle adresse ?
+Adresse IP
+Le niveau 2 utilise quelle adresse ?
+Adresse MAC
+Le niveau 1 utilise quelle adresse ?
+Il n'y en a pas
+
+En vous servant des notes ,quels sont les noms OSI des couches 1,2,3 ?
+physique, liason de données, réseau
+Ethernet se situe à quels niveaux du modèle OSI ?
+couche 2, liaison des données
+En cliquant sur outbound PDU détails quelles structures sont utilisées ?
+EthernetII
+IP
+ICMP
+Variable Size PDU
+En utilisant les notes calculez la taille d'une requête icmp de data 50 au niveau 3 & 2 ?
+icmp = entête icmp + message icmp, donc 8 + 50 = 58
+
+
+15) Répondez à la question suivante quels sont les paramètres à rentrer au niveau du PC0 sachant
+que je veux accéder à un serveur dns
+
+
+Une adresse ip, et un dns avec l'adresse ip du serveur, si on ne configure par le dns, on peut accèder au site web en rentrant l'ip, mais pas avec www.martine.com ( ceci en restant dans le même réseau...)
+192.12.123.14
+
+
+Exercice 3
+
+
+7) Quels sont les paramètres à entrer au niveau d’un pc pour qu’il recoive des adresses en DHCP ?
+
+Contrairement 	au static où il faut entrer manuellement, il n'y a rien à mettre dans un pc, mis à part spécififer qu'il est en DHCP et non en static, c'est le serveur DHCP qui va s'en occuper ( pourvu qu'ils soient connecter...)
+
+Quelle est la commande pour recevoir dynamiquement une adresse dhcp ?
+ipconfig /renew ( pour enlever son ip c'est /release )
+
+
+
+
+
+
+
