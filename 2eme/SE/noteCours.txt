@@ -1,0 +1,74 @@
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++							      +
++			Notes du 18/09/24		      +
++							      +
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+Un processus c'est un programme en cours d'exec 
+( DYNAMIQUE )	
+
+
+Un programme c'est un fichier de code sur un disque 
+( STATIQUE )
+
+
+Un SE est un programme qui contrôle l'execution des autres
+programmes
+
+==============================================================
+__Mode Utilisateur__
+
+Mode restreint de fonctionnement du processus
+Accès restreint  aux registres du processeur
+Accès restreint à la mémoire
+Pas d'accès direct aux périphériques
+Accès restreint aux jeu d'instructions
+==============================================================
+__Mode Noyau__
+
+Accès complets aux registres
+Accès complet à la mémoire
+Accès aux périphériques
+==============================================================
+
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++							      +
++			Notes du 		      +
++							      +
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++							      +
++			Notes du 		      +
++							      +
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++							      +
++			Notes du 	      +
++							      +
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++							      +
++			Notes du 		      +
++							      +
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
