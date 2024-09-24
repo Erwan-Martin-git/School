@@ -1,0 +1,49 @@
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++							      +
++			Notes du 23/09/24		      +
++							      +
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Diagrammes usercase
+
+
+page 40 tuyau examen => acteur !!!
+
+page 44 tuyau examen => acteur primaire et secondaire  ( secondaire aide le système mais le système ne l'aide pas )
+
+souligner page banque ! pour exemple page 44 
+
+beau résumer page 51
+
+page 55 tuyau examen => relation d'association
+
+
+/!\ même si on est plusieurs à utiliser un système, si on est le même acteur, ça compte comme que un => exemple élèves qui travail, c'est UN acteur qui travail
+
+
+page 62 => très bonne exemple acteur secondaire
+
+page 64 tuyau d'examen => 2 types, expliquer juste après
+
+page 69 tuyau d'examen, partager et décomposer
+
+page 71 attention orientation flèche
+
+page 75 tuyau d'examen => synthèse
+
+GROS exemple page 85 => à comprendre  ! + relire page 78 pour l'héritage avec pays, revoir qui hérite
+
+
+
+comment identifier un acteur => ce poser la questiond  qui a BESOIN du système !
+
+
+
+
+
+
+
+
+
+ 
+
